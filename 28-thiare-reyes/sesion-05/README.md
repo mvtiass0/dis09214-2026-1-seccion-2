@@ -90,6 +90,11 @@ NOT (!): Invierte el valor (si era verdadero, pasa a ser falso).
 (10 == 5) OR (3 > 1) → verdadero
 NOT (7 < 2) → verdadero
 
+<img width="960" height="573" alt="Captura de pantalla 2026-05-21 143618" src="https://github.com/user-attachments/assets/c786d001-9ca6-4e18-82a3-f70b250a52b9" />
+
+<img width="973" height="537" alt="Captura de pantalla 2026-05-21 143830" src="https://github.com/user-attachments/assets/30859e68-19c2-4f99-824c-08ac5cef1448" />
+
+
 ## Sentencia Condicional (If - else if - else)
 
 * La sentencia if es una estructura especial que existe en casi todos los lenguajes de
