@@ -1,5 +1,3 @@
-# sesión 03 - 27/03
-
 # Pensamiento-computacional
 
 ### CRONOGRAMA DE CURSO PENSAMIENTO COMPUTACIONAL 
