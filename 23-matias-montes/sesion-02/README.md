@@ -1,10 +1,9 @@
-# sesión 03 - 27/03
-Introducción
+# Introducción
 
 La presentación recorre la evolución de la computación desde las primeras máquinas mecánicas hasta el creative coding y las herramientas digitales contemporáneas, relacionando tecnología, arte y diseño.
 
 
-1. Orígenes de la Computación
+## 1. Orígenes de la Computación
 
 Charles Babbage
 
@@ -17,7 +16,7 @@ Máquina Analítica (1834–1837)
 
 Considerada el antecedente conceptual de las computadoras modernas.
 
-Introdujo:
+## Introdujo:
 
 * Procesador (The Mill)
 * Memoria (The Store)
@@ -25,7 +24,7 @@ Introdujo:
 
   
 
-Telar de Jacquard (1801)
+## Telar de Jacquard (1801)
 
 Primer sistema basado en tarjetas perforadas.
 
@@ -37,7 +36,7 @@ Aportes fundamentales
 
 
 
-Ada Lovelace
+## Ada Lovelace
 
 Considerada la primera programadora de la historia.
 
@@ -48,7 +47,7 @@ Aportes
 
 
 
-Alan Turing
+## Alan Turing
 
 Máquina de Turing (1936)
 
@@ -60,7 +59,7 @@ Cualquier máquina puede ser simulada mediante instrucciones y código.
 
 
 
-2. Evolución Tecnológica y Visual
+## 2. Evolución Tecnológica y Visual
 
 Hitos importantes
 
@@ -74,7 +73,7 @@ Año	Desarrollo
 
 
 
-3. Computación y Arte
+## 3. Computación y Arte
 
 Arte Computacional (1960s)
 
@@ -110,7 +109,7 @@ Desarrolló conceptos fundamentales de las interfaces modernas:
 
 
 
-4. Software Libre y Creative Coding
+## 4. Software Libre y Creative Coding
 
 Software Libre — Richard Stallman
 
@@ -148,7 +147,7 @@ Democratizar la programación visual para:
 
 
 
-p5.js
+### p5.js
 
 Biblioteca basada en Processing para programación creativa en la web.
 
@@ -160,7 +159,7 @@ Características
 
 
 
-Conclusión
+### Conclusión
 
 La computación evolucionó desde máquinas mecánicas hasta sistemas creativos y visuales.
 
