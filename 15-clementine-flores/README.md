@@ -35,7 +35,7 @@ Las figuras se desplazan según sus velocidades horizontal y vertical, cuando ll
 *  Si una figura se encuentra a menos de 200 píxeles del símbolo, se aleja de él y además presenta un pequeño temblor aleatorio.
 *  Cuando se presiona el mouse, la variable opresion cambia a true, desaparece el símbolo masculino y se muestra una imagen de fondo.
 *  Cuando se suelta el mouse, opresion vuelve a false, reaparece el símbolo masculino y las figuras vuelven a reaccionar ante él.
-*  l color de las figuras también cambia según el estado de opresión: son grises cuando el símbolo masculino está presente y recuperan sus colores cuando desaparece.
+*  El color de las figuras también cambia según el estado de opresión: son grises cuando el símbolo masculino está presente y recuperan sus colores cuando desaparece.
 
 #### Pensamiento computacional
 Reglas que gobiernan el sistema (inputs, procesos, outputs)
