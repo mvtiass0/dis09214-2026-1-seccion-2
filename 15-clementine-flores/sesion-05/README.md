@@ -1,4 +1,4 @@
-# sesión 04 - 10/04
+# sesión 05 - 10/04
 # TRANSFORMACIONES Y CONDICIONALES — p5.js
 
 # Transformaciones
